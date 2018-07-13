@@ -22,7 +22,7 @@
     "@vue/cli-service": "^3.0.0-beta.15",
     "@vue/eslint-config-prettier": "^3.0.0-rc.3",
     "@vue/eslint-config-typescript": "^3.0.0-rc.3",
-    "@vue/test-utils": "^1.0.0-beta.16",
+    "@vue/test-utils": "^1.0.0-beta.20",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "ts-jest": "^22.4.6",
